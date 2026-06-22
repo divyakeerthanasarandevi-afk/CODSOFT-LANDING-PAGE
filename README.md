@@ -1,4 +1,4 @@
-# ChocoBrew Landing Page
+# Cocoa & Roast Landing Page
 
 ## 📖 About
 Cocoa & Roast is a modern and responsive landing page designed for a coffee and chocolate brand. The page focuses on attractive visuals, engaging content, and a user-friendly layout.
