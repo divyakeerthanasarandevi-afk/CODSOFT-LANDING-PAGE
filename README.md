@@ -16,9 +16,6 @@ Cocoa & Roast is a modern and responsive landing page designed for a coffee and 
 - HTML
 - CSS
 
-## 📂 Project Structure
-index.html,style.css,images.
-
 ## 🎯 Learning Outcomes
 - Designing landing pages
 - Creating visually appealing layouts
